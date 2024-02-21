@@ -1,10 +1,2 @@
 - 👋 Hi, I’m @ritika21-code
-- 👀 I’m interested in making a responsive website,designing the UI etc.
-- 🌱 I’m currently learning javascript, React.js
-- 💞️ I’m looking to collaborate on open source contribution
-- 📫 you can contact me via email @ritikasinghal2101@gmail.com
-
-<!---
-ritika21-code/ritika21-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate MERN and PERN stack developer eager to embark on a journey in the world of web development. Proficient in creating dynamic and responsive applications with a focus on user experience. Dedicated to continuous learning and growth, I strive to contribute innovative solutions and collaborate with teams to deliver exceptional results.
